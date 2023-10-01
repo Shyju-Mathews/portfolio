@@ -9,7 +9,7 @@ import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import resumePDF from "../../assets/Shyju-dev-Cv.pdf";
-// import proPic from "../../assets/proPic.JPG";
+// import proPic from "../../assets/proPic.JPG"
 
 const Hero = () => {
   return (
@@ -109,7 +109,7 @@ const Hero = () => {
             data-aos="fade-up"
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0 rounded-full"
               // src='https://i.postimg.cc/pTn61Gr1/Untitled-design222-modified.png'
-              src='https://media.licdn.com/dms/image/D5603AQF8SL2hdOSRSQ/profile-displayphoto-shrink_800_800/0/1693628502108?e=1698883200&v=beta&t=UG1JDGlWhR1eykg1YYRtmvCmiF7BvABwiXq-J-sQcD0'
+              src = "https://media.licdn.com/dms/image/D5603AQEteJMvs_JEKw/profile-displayphoto-shrink_800_800/0/1695960801429?e=1701907200&v=beta&t=26HyDW1PMsSBaCSOdKkTSCQNRdhUju9YRxkfEtRIzX8"
               alt="mine"
             />
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
