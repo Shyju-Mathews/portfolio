@@ -107,8 +107,8 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0 rounded-full"
-              src='https://i.postimg.cc/pTn61Gr1/Untitled-design222-modified.png'
-              // src = "https://media.licdn.com/dms/image/D5603AQEteJMvs_JEKw/profile-displayphoto-shrink_800_800/0/1695960802322?e=1707350400&v=beta&t=7y2_XNP2Vq77nwi_oFxlEmY69kSYSjXbJPMHZxpb4QA"
+              // src='https://i.postimg.cc/pTn61Gr1/Untitled-design222-modified.png'
+              src = "https://media.licdn.com/dms/image/D5603AQEteJMvs_JEKw/profile-displayphoto-shrink_800_800/0/1695960802322?e=1707350400&v=beta&t=7y2_XNP2Vq77nwi_oFxlEmY69kSYSjXbJPMHZxpb4QA"
               alt="mine"
             />
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
